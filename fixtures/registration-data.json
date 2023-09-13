@@ -1,0 +1,24 @@
+{
+  "user1": {
+    "firstName": "admin2",
+    "lastName": "admin2",
+    "email": "admin7@gmail.com",
+    "region": "Bristol",
+    "zipCode": "123456",
+    "loginName": "admin7",
+    "password": "admin2",
+    "address": "admin2",
+    "city": "admin2"
+  },
+  "user2": {
+    "firstName": "admin2",
+    "lastName": "admin2",
+    "email": "admin8@gmail.com",
+    "region": "Bristol",
+    "zipCode": "123456",
+    "loginName": "admin8",
+    "password": "admin2",
+    "address": "admin2",
+    "city": "admin2"
+  }
+}
